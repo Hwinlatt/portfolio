@@ -3,8 +3,8 @@ projectContainer.innerHTML = "";
 const projectes = [
     { title: "SmartWatch Shop", img: "img/watchshop.png", url: "http://htutwinlattpoforlio.epizy.com/smartwatchhtml/", code: "https://github.com/Hwinlatt/pofiolo" },
     { title: "MusicApp", img: "img/musicApp.png", url: "http://htutwinlattpoforlio.epizy.com/musicApplication/", code: "https://github.com/Hwinlatt/musicApplication" },
-    { title: "Hello Linker (PHP)", img: "img/helloLinker.png", url: "http://hellolinker.epizy.com/hellolinker", code: "https://github.com/Hwinlatt/hellolinkerPHP" },
-    { title: "Hello Linker (Laravel)", img: "img/hellolinkerlaravel.png", url: "http://hellolinker2-001-site1.etempurl.com/", code: "https://github.com/Hwinlatt/hellolinker" },
+    { title: "Movies (PHP)", img: "img/helloLinker.png", url: "http://hellolinker.epizy.com/hellolinker", code: "https://github.com/Hwinlatt/hellolinkerPHP" },
+    { title: "Movies (Laravel)", img: "img/hellolinkerlaravel.png", url: "http://hellolinker2-001-site1.etempurl.com/", code: "https://github.com/Hwinlatt/hellolinker" },
     { title: "MultiShop (Laravel)", img: "img/multishop.png", url: "http://laravelshop-001-site1.etempurl.com/shop", code: "https://github.com/Hwinlatt/multishop" },
     { title: "Vue Shop Admin (Laravel)", img: "img/vue_shop_admin.png", url: "http://hellolinkermail-001-site1.itempurl.com/", code: "https://github.com/Hwinlatt/vue_shop_admin" },
     { title: "Vue Shop User (Vue)", img: "img/vue_shop.png", url: "http://hellolinker.infinityfreeapp.com/shop", code: "https://github.com/Hwinlatt/vue_shop" },
