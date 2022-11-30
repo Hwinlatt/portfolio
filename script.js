@@ -8,9 +8,9 @@ const projectes = [
     { title: "MultiShop (Laravel)", img: "img/multishop.png", url: "http://laravelshop-001-site1.etempurl.com/shop", code: "https://github.com/Hwinlatt/multishop" },
     { title: "Vue Shop Admin (Laravel)", img: "img/vue_shop_admin.png", url: "http://hellolinkermail-001-site1.itempurl.com/", code: "https://github.com/Hwinlatt/vue_shop_admin" },
     { title: "Vue Shop User (Vue)", img: "img/vue_shop.png", url: "http://hellolinker.infinityfreeapp.com/shop", code: "https://github.com/Hwinlatt/vue_shop" },
-
-
 ]
+
+$('#pj_count').html(projectes.length)
 for (let i = 0; i < projectes.length; i++) {
     projectContainer.innerHTML += `
     <div class="card p-0 mt-4 overflow-hidden" style="width: 18rem;" data-aos="zoom-in" data-aos-duration="1500">
